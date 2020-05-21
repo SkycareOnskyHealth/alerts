@@ -30,8 +30,8 @@ func CheckAlert(operator string, valueStr string, compareValueStr string) (bool,
 	default:
 		return false, nil
 	}
-	return false, nil
 }
+
 // CheckAlertOther for string
 func CheckAlertOther(operator string, value string, compareValue string) (bool, error) {
 	switch operator {
@@ -50,5 +50,4 @@ func CheckAlertOther(operator string, value string, compareValue string) (bool, 
 	default:
 		return false, nil
 	}
-	return false, nil
 }
