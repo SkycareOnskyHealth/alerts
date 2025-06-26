@@ -1,3 +1,3 @@
-module github.com/onskycloud/alerts
+module github.com/SkycareOnskyHealth/alerts
 
 go 1.13

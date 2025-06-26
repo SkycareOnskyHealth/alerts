@@ -1,8 +1,8 @@
 # alerts Helper
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://github.com/onskycloud/alerts)
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://github.com/SkycareOnskyHealth/alerts)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/onskycloud/alerts)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/SkycareOnskyHealth/alerts)
 
 Package alerts provides a way to return detailed information for an RPC request error. The error is normally JSON encoded.
 ## Getting Started!
@@ -21,7 +21,7 @@ Request handler requires [Go](https://golang.org/) v1.11+ to run.
 Install the package.
 
 ```sh
-$ go get github.com/onskycloud/alerts
+$ go get github.com/SkycareOnskyHealth/alerts
 ```
 
 #### Kubernetes + Google Cloud
